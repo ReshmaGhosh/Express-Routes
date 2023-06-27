@@ -1,4 +1,6 @@
-# In this assignment, you will create a server using Express
+# Express assignment
+
+In this assignment, you will create a server using
 
 ### How to run project
 
