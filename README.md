@@ -7,6 +7,6 @@
 
 ### Requirements
 
-1. Create a serve in app.ts file
-2. Create a product route in product.ts file
-3. Create a user route in user.ts file
+1. Create a serve in `app.ts` file
+2. Create a product route in `product.ts` file
+3. Create a user route in `user.ts` file
