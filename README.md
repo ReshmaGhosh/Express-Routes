@@ -1,9 +1,12 @@
-In this assignment, you will create a server using Express
+# In this assignment, you will create a server using Express
 
-How to run project
-Step 1: yarn
-Step 2: yarn start
-Requirements
-Create a serve in index.ts file
-Create a product route in product.ts file
-Create a user route in user.ts file
+### How to run project
+
+1. Step 1: yarn
+2. Step 2: yarn start
+
+### Requirements
+
+1. Create a serve in app.ts file
+2. Create a product route in product.ts file
+3. Create a user route in user.ts file
